@@ -7,7 +7,7 @@
 [Git Links](https://docs.google.com/document/d/1Rm4ZFx0NWglbLO_My3vsZ5UCj4ztsCsujRUsgrwh-kU/edit?usp=sharing)
 
 
-## Recommended Setup:
+## Recommended Setup (WORK IN PROGRESS):
 
 I recommend downloading [VS Code](https://code.visualstudio.com/) an installing the [MongoDB VS Code extension](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode). You need to also download [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/).
 
