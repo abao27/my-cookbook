@@ -4,7 +4,7 @@
 
 [Team Spreedsheet](https://docs.google.com/spreadsheets/d/1hKtgQ5t0tkRawq-LUhJB8PN4NPBmyvGZ9104j4OYsQo/edit?usp=sharing)
 
-[Git Help](https://docs.google.com/document/d/1Rm4ZFx0NWglbLO_My3vsZ5UCj4ztsCsujRUsgrwh-kU/edit?usp=sharing)
+[Git Links](https://docs.google.com/document/d/1Rm4ZFx0NWglbLO_My3vsZ5UCj4ztsCsujRUsgrwh-kU/edit?usp=sharing)
 
 
 ## Recommended Setup:
