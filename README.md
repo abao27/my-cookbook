@@ -1,10 +1,15 @@
 # my-cookbook
 
-Please reference this link for the schedule and to-do list: (https://docs.google.com/spreadsheets/d/1hKtgQ5t0tkRawq-LUhJB8PN4NPBmyvGZ9104j4OYsQo/edit?usp=sharing).
+## Links:
+
+[Team Spreedsheet](https://docs.google.com/spreadsheets/d/1hKtgQ5t0tkRawq-LUhJB8PN4NPBmyvGZ9104j4OYsQo/edit?usp=sharing)
+
+[Git Help](https://docs.google.com/document/d/1Rm4ZFx0NWglbLO_My3vsZ5UCj4ztsCsujRUsgrwh-kU/edit?usp=sharing)
+
 
 ## Recommended Setup:
 
-I recommend downloading [VS Code](https://code.visualstudio.com/) an installing the [MongoDB](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode). You need to also download [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/).
+I recommend downloading [VS Code](https://code.visualstudio.com/) an installing the [MongoDB VS Code extension](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode). You need to also download [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/).
 
 ## How to make changes:
 
