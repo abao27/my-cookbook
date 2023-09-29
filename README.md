@@ -6,6 +6,7 @@
 
 [Git Links](https://docs.google.com/document/d/1Rm4ZFx0NWglbLO_My3vsZ5UCj4ztsCsujRUsgrwh-kU/edit?usp=sharing)
 
+[Upstream Branch](https://www.geeksforgeeks.org/how-to-set-upstream-branch-on-git/?fbclid=IwAR0PjfBpXNjg3K_D7IT08zvWw8_NOCrEwjn_TthBTHSYhwMyWatcxDCUgV8#)
 
 ## Recommended Setup (WORK IN PROGRESS):
 
