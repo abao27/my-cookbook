@@ -14,18 +14,7 @@ I recommend downloading [VS Code](https://code.visualstudio.com/) an installing 
 
 ## How to make changes:
 
-1. Assign a ticket from Issues to yourself.
-
-2. Enter the issue and click on `Create a branch` underneath Development in the sidbar. Try to name the branch according to what what you're actually doing. For example, if you want to edit the recipe filtering algorithm, you should name the branch something along the line of "edit-recipe-filter". Then checkout the branch locally. This is preferred so the branch is automatically linked with the issue Alternatively, you could create a new branch using `git checkout -b {your branch name here}`.
-
-3. Make the necessary changes and test that they work locally.
-
-4. One you've implemented the changes push you changes remotely and create a pull request.
-   Pull requests should discuss the background of why it was necessary, the changes you made to the files and generally how they work, and how you tested the changes as well as pictures of the final result.
-
-5. This repo is set so that other contributors have to comment on your pull requests in order for them to be able to be merged. Take their opinions into account and update your code accoringly!
-
-6. Once the pull request has enough approvals, you can merge the pull request using Squash and Merge.
+See [Upstream Branch](https://www.geeksforgeeks.org/how-to-set-upstream-branch-on-git/?fbclid=IwAR0PjfBpXNjg3K_D7IT08zvWw8_NOCrEwjn_TthBTHSYhwMyWatcxDCUgV8#) link.
 
 # Pull Request Formatting
 
